@@ -1,5 +1,5 @@
 ## Hola 👋<br/>
-💻 Desarrollador de software | Laravel & PHP <br/>
+🚀 Desarrollador de software | Laravel & PHP <br/>
 📌 Técnico de soporte certificado por Cisco (CCST) en ciberseguridad<br/>
 📚 Siempre aprendiendo y mejorando mis habilidades en desarrollo y seguridad informática<br/>
 
