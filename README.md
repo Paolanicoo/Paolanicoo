@@ -1,9 +1,7 @@
-## Hola 👋  
-
-💻 **Desarrollador de software | Laravel & PHP** <br/>  
-📌 **Técnico de soporte certificado por Cisco (CCST) en ciberseguridad**<br/>  
-📚 **Siempre aprendiendo y mejorando mis habilidades en desarrollo y seguridad informática**<br/>
-
+## Hola 👋<br/>
+💻 Desarrollador de software | Laravel & PHP <br/>
+📌 Técnico de soporte certificado por Cisco (CCST) en ciberseguridad<br/>
+📚 Siempre aprendiendo y mejorando mis habilidades en desarrollo y seguridad informática<br/>
 
 <h2 align="left">Tech stack:</h2>
 
@@ -33,17 +31,17 @@
 
 ###
 
-<img align="left" height="120" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paolanicoo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<img align="left" height="120" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
+
+###
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
